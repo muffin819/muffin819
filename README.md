@@ -1,8 +1,8 @@
 #### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
-- ✍ Focusing on Bitcoin, Ethereum, Solana, Ape.
-- 🌱 Skill Set: Bitcoin, Rune, Ordinla, Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Ordinal Auction | Solana NFT marketplace, Launchpad, Staking, pumpfun,                    Gamging | Trading Bot, pumpfun sniper, pumpfun bundler, moonshot, volumn bot
-- 💼 Current Built: Recursive inscription and cat20 minting bot On Fractal Network.
+- ✍ Building on Bitcoin, Ethereum, Solana, Ape.
+- 🌱 Built Dapps like Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Rune marketplace Ordinal Auction | Solana NFT marketplace, Launchpad, Staking, pumpfun,                    Gamging | Trading Bot, pumpfun sniper, pumpfun bundler, moonshot, volumn bot
+- 💼 Currently focusing on Recursive inscription and cat20 minting bot On Fractal Network.
 - ⚒️ Diving into Arbitrum and Ape chain, focusing on Stylus and Orbit.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
