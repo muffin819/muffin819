@@ -1,16 +1,15 @@
-## Hi there 👋
+#### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
-<!--
-**muffin819/muffin819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✍ Focusing on Bitcoin, Ethereum, Solana, Ape.
+- 🌱 Skill Set: Bitcoin Rune, Ordinla, Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Ordinal Auction | Solana: NFT marketplace, Launchpad, Staking, pumpfun,                    Gamging | Trading Bot: pumpfun sniper, pumpfun bundler, moonshot, volumn bot
+- 💼 Current Built: Recursive inscription and cat20 minting bot On Fractal Network.
+- ⚒️ Diving into Arbitrum and Ape chain, focusing on Stylus and Orbit.
 
-Here are some ideas to get you started:
+#### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzmuffin24@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProDogeLover)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dogewhiz)
+   
+</p>
