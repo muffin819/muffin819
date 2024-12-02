@@ -3,7 +3,7 @@
 - ✍ Building on Bitcoin, Ethereum, Solana
 - 🌱 Built Dapps like Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Rune marketplace Ordinal Auction | Solana NFT marketplace, Launchpad, Staking, pumpfun,                    Gamging | Trading Bot, pumpfun sniper, pumpfun bundler, moonshot, volumn bot
 - 💼 Currently focusing on Recursive inscription and cat20 minting bot On Fractal Network.
-- ⚒️ Interested in Ethereum Layer2 Arbitrum and Ape chain.
+- ⚒️ Interested in SUI and Ethereum Layer2 Arbitrum, Ape chain.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzmuffin24@gmail.com)
