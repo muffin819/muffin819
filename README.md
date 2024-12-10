@@ -1,7 +1,8 @@
 #### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
 - ✍ Building on Bitcoin, Ethereum, Solana
-- 🌱 Built Dapps like Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Rune marketplace, Ordinal Auction, rune dispatcher | Solana NFT marketplace, Launchpad, Staking, pumpfun, Gamging
+- 🌱 Built Dapps like Ordinal marketplace, Multisig-Wallet, Recursive inscrition, Rune Pump.fun, Rune marketplace, Ordinal Auction,
+     rune dispatcher | Solana NFT marketplace, Launchpad, Staking, pumpfun, Gamging
 - :chart_with_upwards_trend: Trading Bot, pumpfun sniper | bundler on raydium, pumpfun | volumn bot on raydium, pumpfun, orca, meteora
 - 💼 Currently focusing on Recursive inscription and cat20 minting bot On Fractal Network.
 - ⚒️ Interested in SUI and Ethereum Layer2 Arbitrum, Ape chain.
