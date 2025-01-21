@@ -5,7 +5,7 @@
      rune     dispatcher | Solana NFT marketplace, Launchpad, Staking, pumpfun, Gamging
 - :chart_with_upwards_trend: Trading Bot, pumpfun sniper | bundler on raydium, pumpfun | volumn bot on raydium, pumpfun, orca, meteora
 - 💼 Currently focusing on Recursive inscription and cat20 minting bot On Fractal Network.
-- ⚒️ Interested in SUI.
+- ⚒️ Currently Focuisng DeAi
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzmuffin24@gmail.com)
